@@ -4,7 +4,7 @@ Contains the notebooks and additional files used in the applied statistics proje
 ## Detecting Influencers on Instagram
 
 We provide here a guideline to detect influencers on instagram. 
-The main prerequisit are the following :
+The main prerequisites are the following :
   * chromedriver
   * selenium
   * networkx
