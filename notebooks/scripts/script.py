@@ -70,8 +70,8 @@ def get_following_number(username):
 # Login to instagram with a ghost account to scrape users pages
 
 def login(driver):
-    username = "michel_inf_sup"  # <username here>
-    password = "1234567890Azertyuiop"  # <password here>
+    username = ""  # <username here>
+    password = ""  # <password here>
 
     # Load page
     driver.get("https://www.instagram.com/accounts/login/")
