@@ -1,10 +1,7 @@
 
 ## Notebooks
 
-Ce dossier contient les notebooks utilisés. 
-
-Le projet implique la gestion de plusieurs entrées/sorties. Pour s'y retrouver, voici une
-description des différents fichiers:
+Ce dossier contient les notebooks utilisés. Le projet implique la gestion de plusieurs entrées/sorties. Ces fichiers annexes sont dans les dossiers scripts et text_files. Pour s'y retrouver, voici une description des différents fichiers:
 
 Notebook 1 - Initialisation de la liste de followers:
 • liste_users1 : correspond aux followers des cinq comptes fournis par les GL
